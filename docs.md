@@ -1,16 +1,26 @@
 # WhatsApp Linked
 
-![Frappe](https://img.shields.io/badge/Frappe-≥15-blue)
-![ERPNext](https://img.shields.io/badge/ERPNext-≥15-red)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Node](https://img.shields.io/badge/Node-≥18-brightgreen)
+<p align="center">
+  <img src="images/icon.png" alt="App Icon" width="120" height="120" style="border-radius: 20%; margin-bottom: 20px;"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Frappe-≥15-blue" alt="Frappe">
+  <img src="https://img.shields.io/badge/ERPNext-≥15-red" alt="ERPNext">
+  <img src="https://img.shields.io/badge/Node-≥18-brightgreen" alt="Node">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+</p>
 
-![App Icon](images/icon.png)
+<p align="center">
+  <strong>Send invoices, quotations, and documents via WhatsApp using a linked device.</strong><br>
+  No third-party API required — just scan a QR code from your phone.
+</p>
 
-Send invoices, quotations, and documents via WhatsApp using a linked device. No third-party API required — just scan a QR code from your phone.
+<p align="center">
+  Powered by <a href="https://github.com/WhiskeySockets/Baileys">Baileys</a> (WhatsApp Web API).
+</p>
 
-Powered by [Baileys](https://github.com/WhiskeySockets/Baileys) (WhatsApp Web API).
+---
 
 ---
 
