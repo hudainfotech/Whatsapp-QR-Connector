@@ -5,8 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Node](https://img.shields.io/badge/Node-≥18-brightgreen)
 
-(images/icon.png)
 
+![App Icon](images/icon.png)
 
 Send invoices, quotations, and documents via WhatsApp using a linked device. No third-party API required — just scan a QR code from your phone.
 
