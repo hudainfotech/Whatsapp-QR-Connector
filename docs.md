@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Powered by <a href="https://github.com/WhiskeySockets/Baileys">Baileys</a> (WhatsApp Web API).
+  Powered by <a href="https://hudainfotech.com">Huda Infotech</a>.
 </p>
 
 ---
